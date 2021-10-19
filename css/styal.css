@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgba(235, 247, 241, 0.604);
+
+}
+/* body{
+    width: 100%;
+}
+.header{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: flex-start;
+   
+}
+.header div{
+    width: 500px;
+    align-items: baseline;
+    
+}
+img{
+    margin-left: 20px;
+    width: 100px;
+    background-color: lime;
+} */
+.header{
+    width: 100%;
+    height: 150vh;
+    padding: 20px;
+    background-color: lemonchiffon;
+      
+   
+}
+  
+.page_1{
+  
+    width: 70%;
+    height: 300px;
+    
+    border-radius: 10px solid black ;
+    display: flex;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.527);
+     
+}
+
+.img_1-rasm{
+    width: 50%;
+    text-align: right;
+    margin-top: 20px;
+}
+.img_1-rasm img{
+    width: 400px;
+    height: 250px;
+
+}
+.text_0{
+    width: 50%;
+    padding: 20px;
+    margin-top: 20px;
+}
+.account{
+    display: flex;
+}
+.account img{
+    width: 25px;
+}
+.account p{
+    color: rgba(128, 128, 128, 0.26);
+}
+.text_1{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.text_1 span{
+    color: rgba(128, 128, 128, 0.753) ;
+}
+.iconlar{
+    width: 50%;
+    display: flex;
+    gap: 10px;
+}
+.iconlar img{
+    width: 20px;
+    margin-top: 60px;
+    
+}
+.bayroqcha{
+    
+    display: flex;
+}
+.bayroqcha_1 img{
+    width: 25px;
+    height: 20px;
+    margin-left: 200px;
+}
+
+
+.page_2{
+    width: 70%;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 10px solid black ;
+    display: flex;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.527);
+     
+}
+.img_2-rasm{
+    width: 50%;
+    text-align: right;
+    margin-top: 20px;
+
+}
+.img_2-rasm img{
+    width: 400px;
+    height: 250px;
+}
+
+
+.page_3{
+    width: 70%;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 10px solid black ;
+    display: flex;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.527);
+}
+
+.img_3-rasm{
+    width: 50%;
+    text-align: right;
+    margin-top: 20px;
+}
+.img_3-rasm img{
+    width: 400px;
+    height: 250px;
+}
